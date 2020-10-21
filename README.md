@@ -2,12 +2,13 @@
 
 WorldWarFi是波场上的第一个大型DeFi生态系统。 我们旨在将大规模成功的去中心化金融业引入波场区块链，为下一代开放式金融协议提供动力，这些协议可促进包容性和金融自由，同时扩大区块链的格局。 作为一个分散的自治组织（DAO），项目并不属于早期的开发人员，WorldWarFi允许任何人参与DeFi的未来发展和治理。
 
-世界大战系列的治理代币 — WWT（World War Token）
+【世界大战系列的治理代币 — WWT（World War Token）】
+
 WWT将会很快成为世界大战项目的唯一治理主体
 WWT的第一个实用功能是允许持有人对WWT协议的未来改进提出建议并投票，例如，调整流动性挖矿池、修改游戏参数、更改分红策略等。
 其次，WWT的持有者将能够获得整个生态的优质权益，例如，获得游戏奖池分红、优先参与生态内项目的流动性挖矿、获得生态内项目的空投等。
 
-如何获得WWT？
+【如何获得WWT？】
 
 我们将会在生态内的每一个项目中，建立对应项目的流动性挖矿池，例如，PLANE项目的第一个矿池，以及生态内其他项目的矿池。
 挖矿细则：
@@ -21,7 +22,7 @@ WWT的第一个实用功能是允许持有人对WWT协议的未来改进提出�
 【注意】WWT仅仅是社区的治理代币，它并没有什么价值，我们希望炒作者远离。WWT的价值捕获由社区共同决定，并最终取决于整个生态的可扩展规模。
 WWT合约地址：TS23nWnLWVp2yX5J7wqHM6ch6YPcyWmwGp
 
-世界大战的第一个项目 — PLANE
+【世界大战的第一个项目 — PLANE】
 
 PLANE打飞机游戏是基于区块链的趣味概率游戏，用户通过操控飞机击中不同种类的敌机，从而获得不同倍数的奖励。打飞机游戏将开启两种游戏模式：普通模式和NFT模式。NFT游戏模式将允许用户使用NFT道具属性加成，增加击落概率、额外获得奖励等。用户将可以使用多种代币进行游戏，游戏产生的奖励为PLANE代币。
 
@@ -31,3 +32,54 @@ PLANE代币总量为1,000,000枚，其中初期流通的10%将全部空投给社
 PLANE代币将用于参与PLANE流动性挖矿、打飞机游戏、获取游戏NFT道具、参与其他生态项目等。
 
 PLANE合约地址：TFDE9mGJSCMdC75DWvK9aA16UJFCDNTEBV
+
+官网：https://worldwar.finance
+电报：https://t.me/WorldWarFi
+电报(中文)：https://t.me/WorldWarFiCN
+推特：https://twitter.com/WorldWarFi
+
+
+WorldWarFi is the first DeFi ecosystem on Tron. We aim to bring the massively successful decentralized finance industry to the Tron blockchain, powering the next generation of open financial protocols that promote inclusion and financial freedom, while growing the blockchain landscape. As a decentralized autonomous organization (DAO), WorldWarFi allows anybody to participate in the growth and governance of the future of DeFi.
+
+【World War Series Governance Token — WWT (World War Token)】
+
+WWT will soon become the only governing body of world war project.
+The first practical function of WWT is to allow holders to make suggestions and vote on future improvements to the WWT protocol, such as adjusting the liquidity mining pool, modifying game parameters, and changing the dividend strategy.
+Secondly, WWT holders will be able to obtain high-quality rights and interests in the entire ecosystem, such as winning game prize pool dividends, preferential participation in liquid mining of ecological projects, and airdrops of ecological projects.
+
+【How to get WWT?】
+
+We will establish a liquid mining pool corresponding to the project in each project in the ecosystem, for example, the first mining pool of the PLANE project and the mining pools of other projects in the ecosystem.
+
+Mining rules:
+1. The total amount of WWT is 10,000, and the team has no reservation. At the same time, each time a user produces WWT, 10% will be automatically cast to the founding address for airdrop activities and operating costs.
+2. The first phase of the PLANE project will start at 20 o’clock on October 21, 2020, and a total of 300 WWTs will be produced. The time period is 7 days. Starting from the second phase, the mining pool will be based on community opinions or votes Decide on mining pool rules;
+3. WWT has no pre-mining, everyone has the same starting point;
+
+This mechanism is beneficial to people who already own project tokens in the ecosystem (such as PLANE), or simply put, only people who actually participate in the project can get WWT.
+
+For those who do not have project tokens in the ecosystem, they will need to obtain tokens from other sources, which will push up the price of the tokens and allow those who use the project tokens in the ecosystem to become stakeholders.
+[Note] WWT is only a governance token for the community, it has no value, and we hope that speculators stay away. The value capture of WWT is jointly determined by the community, and ultimately depends on the scalable scale of the entire ecosystem.
+
+WWT contract address: TS23nWnLWVp2yX5J7wqHM6ch6YPcyWmwGp
+
+【The first project of World War Finance — PLANE】
+
+Plane Fighting is a fun probability game based on the blockchain. Users can control the plane to hit different types of enemy aircraft to obtain rewards of different multiples. Fighting the plane game will open two game modes: normal mode and NFT mode. The NFT game mode will allow users to use NFT item attribute bonuses, increase the probability of shooting down, and obtain additional rewards. Users will be able to use multiple tokens to play games, and the rewards generated by the game are PLANE tokens.
+
+The rules of the game will be announced before the normal mode goes live.
+The total amount of PLANE tokens is 1,000,000, of which 10% of the initial circulation will be airdropped to the community, and the rest will be used for liquid mining output and game output, no private placement, no pre-mining, and no team reservation.
+The mining rules will be announced before the mining pool opens.
+
+PLANE tokens will be used to participate in PLANE liquidity mining, flying airplane games, obtaining game NFT props, participating in other ecological projects, etc.
+
+PLANE contract address: TFDE9mGJSCMdC75DWvK9aA16UJFCDNTEBV
+
+
+Official website：https://worldwar.finance
+TelegramCN：https://t.me/WorldWarFiCN
+Telegram：https://t.me/WorldWarFi
+Twitter：https://twitter.com/WorldWarFi
+
+
+
