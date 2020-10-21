@@ -34,9 +34,11 @@ PLANE代币将用于参与PLANE流动性挖矿、打飞机游戏、获取游戏N
 PLANE合约地址：TFDE9mGJSCMdC75DWvK9aA16UJFCDNTEBV
 
 官网：https://worldwar.finance
+
 电报：https://t.me/WorldWarFi
 
 电报(中文)：https://t.me/WorldWarFiCN
+
 推特：https://twitter.com/WorldWarFi
 
 
@@ -78,8 +80,11 @@ PLANE contract address: TFDE9mGJSCMdC75DWvK9aA16UJFCDNTEBV
 
 
 Official website：https://worldwar.finance
+
 TelegramCN：https://t.me/WorldWarFiCN
+
 Telegram：https://t.me/WorldWarFi
+
 Twitter：https://twitter.com/WorldWarFi
 
 
