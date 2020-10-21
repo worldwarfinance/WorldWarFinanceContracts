@@ -1,4 +1,4 @@
-# WorldWarFinanceContracts
+# World War Finance Platform
 
 WorldWarFi是波场上的第一个大型DeFi生态系统。 我们旨在将大规模成功的去中心化金融业引入波场区块链，为下一代开放式金融协议提供动力，这些协议可促进包容性和金融自由，同时扩大区块链的格局。 作为一个分散的自治组织（DAO），项目并不属于早期的开发人员，WorldWarFi允许任何人参与DeFi的未来发展和治理。
 
